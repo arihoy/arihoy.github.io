@@ -21,7 +21,7 @@
 title: Arihoy's Homepage
 email: ariho.ihsoy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-This is Arihoy's homepage. In this page my activity is informed. 
+  This is Arihoy's homepage. In this page my activity is informed. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @ariho_ihsoy
