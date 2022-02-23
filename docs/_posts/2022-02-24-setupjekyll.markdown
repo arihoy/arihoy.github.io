@@ -7,7 +7,7 @@ categories: jekyll
 PagesとJekyllのセットアップ終了。
 ちょっと苦戦したけど、ネットで検索してどうにか動くようになる。
 
-Jekyllのインストール後にエラー(`require': cannot load such file -- webrick (LoadError`)が出て起動しなかった。
+Jekyllのインストール後にローカルでページを見ようとしたが、エラー(`require': cannot load such file -- webrick (LoadError`)が出て起動しなかった。
 
 [ Jekyll serve fails on Ruby 3.0 #8523 ][jekyll-repo]
 
